@@ -9,3 +9,7 @@ Client requested that local storage will store the inputs of the past city searc
 
 This program utilizes https://openweathermap.org/ API, HTML, CSS framework, JavaScript, and Jquery.
 
+
+
+
+
